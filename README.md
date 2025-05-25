@@ -1,67 +1,48 @@
-**Charity Management system:** <br>
-A web-based platform designed to connect donors with individuals in need — particularly useful for local and small-scale charities.
+# 🎗️ Charity Management System
 
-This system has two user roles: User and Admin.
+A **web-based platform** designed to connect donors with individuals in need — particularly useful for local and small-scale charities.
 
-Features
-👤 User Functionalities:
-Users can register with their personal details like name, email, password, phone number, and address.
+This system includes two user roles: **User** and **Admin**.
 
-After registration, users can log in using their credentials.
+---
 
-On the User Dashboard, the following options are available:
+## 👤 User Functionalities
 
-Enter Donation – Record new donations.
+- Users can **register** with personal details like:
+  - Name  
+  - Email  
+  - Password  
+  - Phone Number  
+  - Address  
 
-View Donation Information – See details of past donations.
+- After registration, users can **log in** using their credentials.
 
-Request as Beneficiary – Submit a request for financial help.
+### 🧭 User Dashboard Features:
+- **Enter Donation** – Record new donations.  
+- **View Donation Information** – See details of past donations.  
+- **Request as Beneficiary** – Submit a request for financial help.  
+- **Edit Profile** – Update personal information.  
 
-Edit Profile – Update personal information.
+---
 
-🛠️ Admin Functionalities:
-Admin logs in using an email and password.
+## 🛠️ Admin Functionalities
 
-On the Admin Dashboard, the following options are available:
+- Admin logs in using **email** and **password**.
 
-View Donations – See all donation entries.
+### 🧭 Admin Dashboard Features:
+- **View Donations** – See all donation entries.  
+- **Approve/Reject Beneficiary Requests** – Process user requests for help.  
+- **View Beneficiary List** – See the list of all beneficiaries.  
+- **Update User Details** – Modify user profiles as needed.  
+- **View Approved Requests** – Track successfully processed requests.  
 
-Approve/Reject Beneficiary Requests – Process user requests for help.
+✅ When a **beneficiary request** is approved, the user receives a **notification**.
 
-View Beneficiary List – See the list of all beneficiaries.
+---
 
-Update User Details – Modify user profiles as needed.
+## 🚀 How to Run the Website on Your Local Machine
 
-View Approved Requests – Track successfully processed requests.
-
-✅ When a beneficiary request is approved, the user receives a notification.
-
-🚀 How to Run the Website on Your Local Machine
-Step 1:
-Clone the repository into your project folder.
-
-**bash** <br>
+### Step 1: Clone the Repository
+```bash
 git clone your-repository-link
-
-Step 2:
-Install XAMPP if not already installed.
-
-Step 3:
-Start Apache and MySQL services in the XAMPP control panel.
-
-Step 4:
-Open phpMyAdmin (http://localhost/phpmyadmin), create a new database named:
-
-##bash <br>
-charitysystem <br>
-Then import the provided .sql file into this database.
-
-Step 5:
-Open your browser and run:
-
-##bash <br>
-http://localhost/your-folder-name/index.php <br>
-
-Replace your-folder-name with the folder where the project is saved inside the htdocs directory.
-
 
