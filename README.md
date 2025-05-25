@@ -46,3 +46,39 @@ This system includes two user roles: **User** and **Admin**.
 <pre> bash<br>
 git clone your-repository-link
 </pre>
+### 📌 Step 2: Install XAMPP
+Download and install XAMPP from:  
+👉 [https://www.apachefriends.org](https://www.apachefriends.org)
+
+### 📌 Step 3: Start Apache and MySQL Services
+- Open the **XAMPP Control Panel**
+- Start the following services:
+  - ✅ Apache
+  - ✅ MySQL
+ 
+### 📌 Step 4: Setup the Database
+1. Open **phpMyAdmin** in your browser:  
+   http://localhost/phpmyadmin
+
+2. Create a new database named:
+   "charitysystem"
+3. Import the provided `.sql` file into this database.
+
+### 📌 Step 5: Run the Project
+Open your browser and navigate to: <br>
+http://localhost/your-folder-name/index.php
+
+<br>
+> 🔁 Replace `your-folder-name` with the actual name of your project folder placed inside the `htdocs` directory.
+
+---
+
+## ✅ Notes
+
+- Ensure your project folder is placed in:  
+  `C:/xampp/htdocs/`
+
+- Use modern browsers like Chrome or Firefox for best performance.
+
+---
+
