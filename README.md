@@ -1,4 +1,4 @@
-Charity Management sytem
+**Charity Management system:**
 A web-based platform designed to connect donors with individuals in need — particularly useful for local and small-scale charities.
 
 This system has two user roles: User and Admin.
