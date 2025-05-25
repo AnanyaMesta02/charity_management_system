@@ -43,6 +43,6 @@ This system includes two user roles: **User** and **Admin**.
 ## 🚀 How to Run the Website on Your Local Machine
 
 ### Step 1: Clone the Repository
-```bash
-git clone your-repository-link
-
+<pre> ```bash
+git clone your-repository-link```
+</pre>
