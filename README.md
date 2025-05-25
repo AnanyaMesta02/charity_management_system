@@ -53,7 +53,7 @@ Step 4:
 Open phpMyAdmin (http://localhost/phpmyadmin), create a new database named:
 
 ##bash <br>
-charitysystem
+charitysystem <br>
 Then import the provided .sql file into this database.
 
 Step 5:
