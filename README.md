@@ -1,4 +1,4 @@
-**Charity Management system:**
+**Charity Management system:** <br>
 A web-based platform designed to connect donors with individuals in need — particularly useful for local and small-scale charities.
 
 This system has two user roles: User and Admin.
@@ -40,7 +40,7 @@ View Approved Requests – Track successfully processed requests.
 Step 1:
 Clone the repository into your project folder.
 
-##bash
+**bash** <br>
 git clone <your-repository-link>
 
 Step 2:
@@ -52,15 +52,15 @@ Start Apache and MySQL services in the XAMPP control panel.
 Step 4:
 Open phpMyAdmin (http://localhost/phpmyadmin), create a new database named:
 
-##bash
+##bash <br>
 charitysystem
 Then import the provided .sql file into this database.
 
 Step 5:
 Open your browser and run:
 
-##bash
-http://localhost/your-folder-name/index.php
+##bash <br>
+http://localhost/your-folder-name/index.php <br>
 
 Replace your-folder-name with the folder where the project is saved inside the htdocs directory.
 
