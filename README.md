@@ -41,7 +41,7 @@ Step 1:
 Clone the repository into your project folder.
 
 **bash** <br>
-git clone <your-repository-link>
+git clone your-repository-link
 
 Step 2:
 Install XAMPP if not already installed.
