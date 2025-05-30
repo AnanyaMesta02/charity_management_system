@@ -44,7 +44,7 @@ This system includes two user roles: **User** and **Admin**.
 
 ### Step 1: Clone the Repository
 <pre> bash<br>
-git clone 
+git clone https://github.com/AnanyaMesta02/charity_management_system.git
 </pre>
 ### 📌 Step 2: Install XAMPP
 Download and install XAMPP from:  
