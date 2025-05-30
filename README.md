@@ -44,7 +44,7 @@ This system includes two user roles: **User** and **Admin**.
 
 ### Step 1: Clone the Repository
 <pre> bash<br>
-git clone your-repository-link
+git clone 
 </pre>
 ### 📌 Step 2: Install XAMPP
 Download and install XAMPP from:  
